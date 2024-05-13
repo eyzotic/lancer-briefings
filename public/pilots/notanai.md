@@ -1,5 +1,0 @@
-
-
-## Trivia
-
-* Techie
