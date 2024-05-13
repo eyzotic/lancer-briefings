@@ -101,7 +101,7 @@ export default {
       ],
       "pilots": [
       {
-          "callsign": "captain",
+          "callsign": "Captain",
           "alias": "T'Chaka",
           "code": "4a55b894-3eb1-42ec-bebf-670c24af2f7d//NDL-C-GOLD-CASCADE",
           "corpro": "GMS",
@@ -109,7 +109,7 @@ export default {
           "mech": "Metroplex"
         },
         {
-          "callsign": "fairy",
+          "callsign": "Fairy",
           "alias": "[REDACTED]",
           "code": "627db090-4cd5-4787-98d4-301a7a2470ba//NDL-C-ETA-MARCH",
           "corpro": "GMS",
@@ -117,7 +117,7 @@ export default {
           "mech": "Zephyr"
         },
         {
-          "callsign": "ruiner",
+          "callsign": "Ruiner",
           "alias": "Aster Elliot Rhea",
           "code": "cff6e4be-1636-4788-b52d-9a85b5baa8b4//NDL-C-DEEP-NOVEMBER",
           "corpro": "GMS",
@@ -125,7 +125,7 @@ export default {
           "mech": "Mannequin Idol"
         },
         {
-          "callsign": "quasar",
+          "callsign": "Quasar",
           "alias": "Alex",
           "code": "13e56571-d57f-496e-bba8-a937403f11b2//NDL-C-SINGULARITY-OCTOBER",
           "corpro": "GMS",
@@ -133,7 +133,7 @@ export default {
           "mech": "Neverest"
         },
         {
-          "callsign": "z3ro",
+          "callsign": "Z3ro",
           "alias": "Ryōsuke Abane",
           "code": "f37a441a-7df3-43c1-963d-f197b4705da5//NDL-C-DARK-CRYSTAL",
           "corpro": "GMS",
