@@ -117,20 +117,20 @@ export default {
           "mech": "Zephyr"
         },
         {
-          "callsign": "Ruiner",
-          "alias": "Aster Elliot Rhea",
-          "code": "cff6e4be-1636-4788-b52d-9a85b5baa8b4//NDL-C-DEEP-NOVEMBER",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mannequin Idol"
-        },
-        {
           "callsign": "Quasar",
           "alias": "Alex",
           "code": "13e56571-d57f-496e-bba8-a937403f11b2//NDL-C-SINGULARITY-OCTOBER",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Neverest"
+        },
+        {
+          "callsign": "Ruiner",
+          "alias": "Aster Elliot Rhea",
+          "code": "cff6e4be-1636-4788-b52d-9a85b5baa8b4//NDL-C-DEEP-NOVEMBER",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Mannequin Idol"
         },
         {
           "callsign": "Z3ro",
