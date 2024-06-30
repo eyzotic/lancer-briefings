@@ -89,13 +89,18 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
-      "current_md": "001.md",
-      "events": "001.md",
+      "mission_slug": "002",
+      "current_md": "002.md",
+      "events": "002.md",
       "missions": [
         {
           "slug": "001",
           "name": "Bug-Hunt",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Vigilant Gaze",
           "status": "start"
         },
       ],
@@ -107,22 +112,6 @@ export default {
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "Metroplex"
-        },
-        {
-          "callsign": "Fairy",
-          "alias": "[REDACTED]",
-          "code": "627db090-4cd5-4787-98d4-301a7a2470ba//NDL-C-ETA-MARCH",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Zephyr"
-        },
-        {
-          "callsign": "Quasar",
-          "alias": "Alex",
-          "code": "13e56571-d57f-496e-bba8-a937403f11b2//NDL-C-SINGULARITY-OCTOBER",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Neverest"
         },
         {
           "callsign": "Ruiner",
