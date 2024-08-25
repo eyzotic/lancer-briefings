@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
-      "current_md": "002.md",
-      "events": "002.md",
+      "mission_slug": "003",
+      "current_md": "003.md",
+      "events": "003.md",
       "missions": [
         {
           "slug": "001",
@@ -101,33 +101,30 @@ export default {
         {
           "slug": "002",
           "name": "Vigilant Gaze",
-          "status": "start"
+          "status": "success"
         },
+        {
+          "slug": "003",
+          "name": "Floodgate",
+          "status": "start"
+        }
       ],
       "pilots": [
-      {
-          "callsign": "Captain",
-          "alias": "T'Chaka",
-          "code": "4a55b894-3eb1-42ec-bebf-670c24af2f7d//NDL-C-GOLD-CASCADE",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "Metroplex"
-        },
         {
           "callsign": "Ruiner",
           "alias": "Aster Elliot Rhea",
-          "code": "cff6e4be-1636-4788-b52d-9a85b5baa8b4//NDL-C-DEEP-NOVEMBER",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mannequin Idol"
+          "code": "cff6e4be-1636-4788-b52d-9a85b5baa8b4//NDL-C-STOLEN-STAR",
+          "corpro": "HORUS",
+          "frame": "Hydra",
+          "mech": "Marionette God"
         },
         {
           "callsign": "Z3ro",
           "alias": "Ryōsuke Abane",
-          "code": "f37a441a-7df3-43c1-963d-f197b4705da5//NDL-C-DARK-CRYSTAL",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Proxy"
+          "code": "f37a441a-7df3-43c1-963d-f197b4705da5//NDL-C-BLUE-GRAVE",
+          "corpro": "HORUS",
+          "frame": "Pegasus",
+          "mech": "BFG-ba"
         },
       ],
       "header": {
