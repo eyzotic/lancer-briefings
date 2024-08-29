@@ -126,6 +126,14 @@ export default {
           "frame": "Pegasus",
           "mech": "BFG-ba"
         },
+        {
+          "callsign": "Wanderer",
+          "alias": "Enos the Freecast",
+          "code": "f989664f-e4b1-4a6c-8715-fb804632b87c//NDL-C-STEEL-REACH",
+          "corpro": "HORUS",
+          "frame": "Calendula",
+          "mech": "Ten Thousand and a Half Steps"
+        },
       ],
       "header": {
         "planet": "Hercynia",
