@@ -89,9 +89,9 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
-      "current_md": "003.md",
-      "events": "003.md",
+      "mission_slug": "004",
+      "current_md": "004.md",
+      "events": "004.md",
       "missions": [
         {
           "slug": "001",
@@ -106,6 +106,11 @@ export default {
         {
           "slug": "003",
           "name": "Floodgate",
+          "status": "success"
+        }, 
+        {
+          "slug": "004",
+          "name": "Rallying Cry",
           "status": "start"
         }
       ],
@@ -128,11 +133,19 @@ export default {
         },
         {
           "callsign": "Wanderer",
-          "alias": "Enos the Freecast",
+          "alias": "Kalatha Finsa",
           "code": "f989664f-e4b1-4a6c-8715-fb804632b87c//NDL-C-STEEL-REACH",
           "corpro": "HORUS",
           "frame": "Calendula",
           "mech": "Ten Thousand and a Half Steps"
+        },
+        {
+          "callsign": "Spectre",
+          "alias": "Finnea Donnas",
+          "code": "f6e39383-760e-4802-a04b-e49338dcae3c//NDL-C-DELTA-GLYPH",
+          "corpro": "SSC",
+          "frame": "Atlas",
+          "mech": "Ullr"
         },
       ],
       "header": {
