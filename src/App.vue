@@ -141,7 +141,7 @@ export default {
         },
         {
           "callsign": "Spectre",
-          "alias": "Finnea Donnas",
+          "alias": "Finea Donnas",
           "code": "f6e39383-760e-4802-a04b-e49338dcae3c//NDL-C-DELTA-GLYPH",
           "corpro": "SSC",
           "frame": "Atlas",
