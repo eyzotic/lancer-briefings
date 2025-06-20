@@ -111,6 +111,11 @@ export default {
         {
           "slug": "004",
           "name": "Rallying Cry",
+          "status": "success"
+        },
+        {
+          "slug": "005",
+          "name": "Split-Knuckle Haymaker",
           "status": "start"
         }
       ],
@@ -124,7 +129,7 @@ export default {
           "mech": "Marionette God"
         },
         {
-          "callsign": "Z3ro",
+          "callsign": "Z3r0",
           "alias": "Ryōsuke Abane",
           "code": "f37a441a-7df3-43c1-963d-f197b4705da5//NDL-C-BLUE-GRAVE",
           "corpro": "HORUS",
@@ -140,12 +145,12 @@ export default {
           "mech": "Ten Thousand and a Half Steps"
         },
         {
-          "callsign": "Spectre",
-          "alias": "Finea Donnas",
-          "code": "f6e39383-760e-4802-a04b-e49338dcae3c//NDL-C-DELTA-GLYPH",
+          "callsign": "Martial",
+          "alias": "James Saintjames",
+          "code": "bfdb39eb-9f47-4670-a67c-6691c444b80e//NDL-C-SATELLITE-AXE",
           "corpro": "SSC",
-          "frame": "Atlas",
-          "mech": "Ullr"
+          "frame": "Viceroy",
+          "mech": "Regulus"
         },
       ],
       "header": {
